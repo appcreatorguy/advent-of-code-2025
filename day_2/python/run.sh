@@ -1,0 +1,1 @@
+uv run -q src/template $1 $2
